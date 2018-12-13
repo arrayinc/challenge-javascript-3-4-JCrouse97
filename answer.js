@@ -10,4 +10,4 @@ let i = x;
   return str;
 }
 
-countdown(10)
+countdown(10);
